@@ -20,5 +20,6 @@ export default makeStyles((theme) => ({
   },
   buttonSubmit: {
     marginBottom: 10,
+    opacity: 0.9,
   },
 }));
