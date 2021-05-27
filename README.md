@@ -11,5 +11,4 @@ Features:
 -Like Photos
 -Edit description of Photos
 
-Link to the site : https://memories-app-social-media.netlify.app/
 
