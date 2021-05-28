@@ -1,3 +1,5 @@
+// Backend hosting on Heroku: https://memories-app-social-media.herokuapp.com/
+
 import express from "express";
 import bodyParser from "body-parser";
 import mongoose from "mongoose";

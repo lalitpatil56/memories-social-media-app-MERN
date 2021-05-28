@@ -5,6 +5,7 @@ export default makeStyles((theme) => ({
     borderRadius: 15,
     margin: "30px 0",
     display: "flex",
+    flexWrap: "wrap",
     flexDirection: "row",
     justifyContent: "center",
     alignItems: "center",
@@ -14,6 +15,17 @@ export default makeStyles((theme) => ({
   },
   image: {
     marginLeft: "15px",
+  },
+  gridHeading: {
+    justifyContent: "center",
+    alignItems: "center",
+    display: "flex",
+  },
+  loginButton: {
+    padding: "1em",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
   },
   [theme.breakpoints.down("sm")]: {
     mainContainer: {
